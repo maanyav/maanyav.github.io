@@ -427,7 +427,8 @@ main {
   font-size: var(--fs-7);
 }
 
-.contact-info address { font-style: normal; }
+.contact-info address { font-style: normal;}
+
 
 .social-list {
   display: flex;
@@ -750,7 +751,7 @@ main {
 
 .clients-item img {
   width: 100%;
-  filter: grayscale(1);
+  
   transition: var(--transition-1);
 }
 
